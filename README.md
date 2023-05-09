@@ -26,7 +26,7 @@
 
 * [Huggingface🤗](https://huggingface.co/models?language=ko&sort=downloads)
 
-# 국내 데이터 경진대회 플랫
+# 국내 데이터 경진대회 플랫폼
 
 * [dacon](https://dacon.io/)
 * [aifactory](https://aifactory.space/)
