@@ -21,7 +21,7 @@
 * [AwesomeKorean_Data](https://github.com/songys/AwesomeKorean_Data)
 * [AIHub](https://aihub.or.kr/aihubdata/data/list.do?pageIndex=1&currMenu=115&topMenu=100&dataSetSn=&srchdataClCode=DATACL001&srchOrder=&SrchdataClCode=DATACL002&searchKeyword=&srchDataRealmCode=REALM002&srchDataTy=DATA003)
 * [청와대국민청원](https://github.com/HaloKim/bluehouse_petitions)
-* 
+
 # Huggingface🤗 한국어 모델
 
 * [Huggingface🤗](https://huggingface.co/models?language=ko&sort=downloads)
