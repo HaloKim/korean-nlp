@@ -16,7 +16,7 @@
 * [KLUE](https://klue-benchmark.com/)
 * [KorQuAD 1.0](https://korquad.github.io/KorQuad%201.0/)
 * [KorQuAD 2.0](https://korquad.github.io/)
-* [인공지능언어능력평가](https://corpus.korean.go.kr/taskOrdtm/useTaskOrdtmList.do)
+* [국립국어원 인공 지능 언어 능력 평가](https://corpus.korean.go.kr/taskOrdtm/useTaskOrdtmList.do)
 
 # 한국어 데이터셋
 
